@@ -1,0 +1,7 @@
+Business problem: The sinking of the RMS Titanic in 1912 was one of the deadliest commercial marine disasters in modern history. While the tragedy is well-known, deeper analysis of the voyage's data remains insightful. By closely examining passenger details, survival factors and the ship's journey timeline, hidden patterns and implications can be uncovered.
+
+Approach: I obtained the publicly available Titanic passenger manifest dataset and conducted extensive data cleaning and merging across multiple data sources. Key variables like age, gender, class, family size and ticket price were extracted. Advanced analytics were then applied in Excel and Power BI to develop informative visualizations.
+
+Results: The interactive dashboard presents comprehensive overviews of passenger demographics, class distributions and survival rates in an easy-to-understand format. Pie charts, bar graphs and a timeline infographic provide at-a-glance insights. Unique findings around the influence of gender, age and class on survival chance were also highlighted.
+
+Business impact: This project demonstrated my abilities in data wrangling, analytics and business-focused data storytelling. The engaging visuals bring new understanding to this historic event and can educate audiences on the impact of variables like social demographics on outcomes. It also epitomizes my strengths in extracting meaningful insights from raw data.
